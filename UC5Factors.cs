@@ -8,6 +8,7 @@ namespace basic
 {
     internal class UC5Factors
     {
+        //
         public static void FactorMethod()
         {
             Console.WriteLine("Enter a number");
