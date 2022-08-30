@@ -17,6 +17,31 @@
                 case 2:
                     UC2LeapYear.FindleapYear();
                     break;
+                case 3:
+                    UC3Power_Of_Two.Powertwo();
+                    break;
+                case 4:
+                    UC4Harmonic_Number.Number();
+                    break;
+                case 5:
+                    UC5Factors.FactorMethod();
+                    break;
+                case 6:
+                    UC6QuoReminder.QuoReminder();
+                    break;
+                case 7:
+                   UC7SwapNumber.SwapNumber();
+                    break;
+                case 8:
+                    UC8EvenOdd.evenOdd();
+                    break;
+                case 9:
+                    UC7SwapNumber.SwapNumber();
+                    break;
+                case 10:
+                    UC10Largest_NUM.findlargestNumber();
+                    break;
+
             }
         }
     }
